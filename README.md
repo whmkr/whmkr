@@ -1,6 +1,6 @@
 <h3 align="center">WHMKR</h3>
 
-<p align="center">I reinvent the wheels, but faster</p>
+<p align="center">reinventing the wheels(fast ones)</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-solidity-lightgrey?style=flat-square&logo=Solidity&logoColor=white"/></a>
