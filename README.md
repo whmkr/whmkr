@@ -1,4 +1,4 @@
-# WHMKR
+<h3 align="center">WHMKR</h3>
 
 <p align="center">I reinvent the wheels, but faster</p>
 
