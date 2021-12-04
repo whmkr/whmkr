@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="170" height="170" src="https://github.com/whmkr/whmkr/blob/masger/img/whmkr.png?raw=true">
+  <img width="170" height="170" src="https://github.com/whmkr/whmkr/blob/master/img/whmkr.png?raw=true">
 </p>
 <h3 align="center">WHMKR</h3>
 <p align="center">reinventing the wheels(fast ones)</p>
